@@ -12,13 +12,15 @@
     <img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
-## 🔥 Streak stats
+## 🔥 Stats
 
 <!-- GitHub Readme Streak Stats - https://github.com/Vroomfrondal/github-readme-streak-stats -->
 <p align="center">
   <a href="https://github.com/Vroomfrondal/github-readme-streak-stats">
     <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Vroomfrondal's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Vroomfrondal&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=60D9FA&fire=60D9FA&currStreakLabel=60D9FA"/>
   </a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Vroomfrondals's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Vroomfrondal&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+
 </p>
 
 ## 👨‍💻 Languages and tools
@@ -36,18 +38,8 @@
   <a><img alt="TailwindCSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"></a>
 </p>
 
-## 📊 More Stats
+## 📊 Contributions
 
 <!-- https://github.com/Vroomfrondal/github-readme-activity-graph -->
 
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="lrusso96's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Vroomfrondal&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
-<!-- https://github.com/anuraghazra/github-readme-stats -->
-<details> 
-  <summary>💻 GitHub Profile Stats</summary>
-  <br/>
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Vroomfrondals's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Vroomfrondal&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Vroomfrondal's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vroomfrondal&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-</details>
+<a href="https://github.com/Vroomfrondal/github-readme-activity-graph"><img alt="Vroomfrondal's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Vroomfrondal&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
