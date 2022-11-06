@@ -30,8 +30,8 @@
 
 <a><img align="center" src="https://github-readme-stats.vercel.app/api?username=Vroomfrondal&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Christophers's github stats" /></a>
 
-<a href="https://github.com/Vroomfrondal/Photo-Gallery-React-Tailwind"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Vroomfrondal&repo=Photo-Gallery-React-Tailwind&theme=rose_pine" alt="Star Wars Weather Project" /></a>
+<a href="https://topher-photo-gallery.netlify.app/"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Vroomfrondal&repo=Photo-Gallery-React-Tailwind&theme=rose_pine" alt="Star Wars Weather Project" /></a>
 
-<a href="https://github.com/Vroomfrondal/Star-Wars-Weather"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Vroomfrondal&repo=Star-Wars-Weather&theme=rose_pine" alt="Star Wars Weather Project" /></a>
+<a href="https://starwars-weather.netlify.app/"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Vroomfrondal&repo=Star-Wars-Weather&theme=rose_pine" alt="Star Wars Weather Project" /></a>
 
-<a href="https://github.com/Vroomfrondal/tic-tac-toe"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Vroomfrondal&repo=tic-tac-toe&theme=rose_pine" alt="Star Wars Weather Project" /></a>
+<a href="https://topher-tictactoe.netlify.app/"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Vroomfrondal&repo=tic-tac-toe&theme=rose_pine" alt="Star Wars Weather Project" /></a>
