@@ -18,7 +18,7 @@
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge%22&logo=css3&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-000?style=for-the-badge%22&logo=MySQL&logoColor=white)
 
-#### Technologies:
+#### Technologies
 
 ![React](https://shields.io/badge/react-black?logo=react&style=for-the-badge%22)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge%22&logo=tailwind-css&logoColor=white)
@@ -28,10 +28,15 @@
 
 #### Stats & Top Repositories:
 
-<a><img align="center" src="https://github-readme-stats.vercel.app/api?username=Vroomfrondal&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Christophers's github stats"/></a>
+<div style="display: flex; justify-content: center; align-items: center;">
+    <a><img align="center" src="https://github-readme-stats.vercel.app/api?username=Vroomfrondal&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Christophers's github stats"/></a>
+</div>
 
-<a href="https://topher-photo-gallery.netlify.app/" rel="noopener"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Vroomfrondal&repo=Photo-Gallery-React-Tailwind&theme=rose_pine" alt="Photo Gallery"/></a>
+<div style="display: flex; flex-direction: row;">
+    <a href="https://starwars-weather.netlify.app/" rel="noopener"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Vroomfrondal&repo=Star-Wars-Weather&theme=rose_pine" alt="Star Wars Weather Project"/></a>
+    <a href="https://topher-tictactoe.netlify.app/" rel="noopener"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Vroomfrondal&repo=tic-tac-toe&theme=rose_pine" alt="Browser Tic Tac Toe"/></a>
+</div>
 
-<a href="https://starwars-weather.netlify.app/" rel="noopener"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Vroomfrondal&repo=Star-Wars-Weather&theme=rose_pine" alt="Star Wars Weather Project"/></a>
-
-<a href="https://topher-tictactoe.netlify.app/" rel="noopener"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Vroomfrondal&repo=tic-tac-toe&theme=rose_pine" alt="Browser Tic Tac Toe"/></a>
+<div style="display: flex; justify-content: center; align-items: center;">
+    <a href="https://topher-photo-gallery.netlify.app/" rel="noopener"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Vroomfrondal&repo=Photo-Gallery-React-Tailwind&theme=rose_pine" alt="Photo Gallery"/></a>
+</div>
