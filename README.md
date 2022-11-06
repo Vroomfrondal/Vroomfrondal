@@ -4,29 +4,34 @@
 
 -   💼 Software Developer at [Electronic Caregiver](https://electroniccaregiver.com/)
 
--   📘 Passionate Front End Developer
+-   📘 Passionate Front-End Developer
 
 -   💻 [My Website](https://www.topherdeleon.com/#contact)
 
--   🔗 Link up on [LinkedIn](https://www.topherdeleon.com/#contact)
+-   🔗 Link up on [LinkedIn](https://www.linkedin.com/in/topherdeleon/)
 
-#### Favorite Languages:
+#### Languages:
 
-<code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="20" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge%22&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge%22&logo=css3&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
+
+#### Technologies:
+
+![React](https://shields.io/badge/react-black?logo=react&style=for-the-badge%22)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge%22&logo=tailwind-css&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
+![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
+![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge%22&logo=github&logoColor=white)
 
 #### Stats & Top Repositories:
 
-<a href="https://github.com/Vroomfrondal"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Vroomfrondal&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Christophers's github stats" /></a>
-
-<a href="https://github.com/Vroomfrondal/Vroomfrondal.github.io"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Vroomfrondal&repo=Vroomfrondal.github.io&theme=rose_pine" alt="Portfolio Website" /></a>
-
-<a href="https://github.com/Vroomfrondal/Star-Wars-Weather"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Vroomfrondal&repo=Star-Wars-Weather&theme=rose_pine" alt="Star Wars Weather Project" /></a>
+<a><img align="center" src="https://github-readme-stats.vercel.app/api?username=Vroomfrondal&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Christophers's github stats" /></a>
 
 <a href="https://github.com/Vroomfrondal/Photo-Gallery-React-Tailwind"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Vroomfrondal&repo=Photo-Gallery-React-Tailwind&theme=rose_pine" alt="Star Wars Weather Project" /></a>
 
-<a href="https://github.com/Vroomfrondal/tic-tac-toe"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Vroomfrondal&repo=tic-tac-toe&theme=rose_pine" alt="Star Wars Weather Project" /></a>
+<a href="https://github.com/Vroomfrondal/Star-Wars-Weather"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Vroomfrondal&repo=Star-Wars-Weather&theme=rose_pine" alt="Star Wars Weather Project" /></a>
 
-<a href="https://github.com/Vroomfrondal/Fitness-Website"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Vroomfrondal&repo=Fitness-Website&theme=rose_pine" alt="Star Wars Weather Project" /></a>
+<a href="https://github.com/Vroomfrondal/tic-tac-toe"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Vroomfrondal&repo=tic-tac-toe&theme=rose_pine" alt="Star Wars Weather Project" /></a>
