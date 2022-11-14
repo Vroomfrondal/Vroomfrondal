@@ -4,8 +4,6 @@
 
 <!-- Badges template - https://github.com/badges/shields -->
 <p align="center">
-  <a href="https://github.com/Vroomfrondal?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/Vroomfrondal?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow%20me"/></a>
   <a href="https://github.com/Vroomfrondal?tab=repositories&sort=stargazers">
     <img alt="stars" title="Starred repositories" src="https://img.shields.io/github/stars/Vroomfrondal?color=55960c&labelColor=488207&style=for-the-badge&logo=github&label=Stars"/></a>  
   <a href="https://www.linkedin.com/in/topherdeleon/">
@@ -14,12 +12,13 @@
 
 ## 🔥 Stats
 
-<!-- GitHub Readme Streak Stats - https://github.com/Vroomfrondal/github-readme-streak-stats -->
 <p align="center">
-  <a href="https://github.com/Vroomfrondal/github-readme-streak-stats">
+  <!-- <a href="https://github.com/anuraghazra/github-readme-stats">
     <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Vroomfrondal's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Vroomfrondal&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=60D9FA&fire=60D9FA&currStreakLabel=60D9FA"/>
+  </a> -->
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img alt="Vroomfrondals's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Vroomfrondal&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
   </a>
-<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Vroomfrondals's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Vroomfrondal&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
 
 </p>
 
@@ -39,7 +38,5 @@
 </p>
 
 ## 📊 Contributions
-
-<!-- https://github.com/Vroomfrondal/github-readme-activity-graph -->
 
 <a href="https://github.com/Vroomfrondal/github-readme-activity-graph"><img alt="Vroomfrondal's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Vroomfrondal&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
