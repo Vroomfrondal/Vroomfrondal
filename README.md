@@ -37,6 +37,6 @@
   <a><img alt="TailwindCSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"></a>
 </p>
 
-## 📊 Contributions
+<!-- ## 📊 Contribution Graph
 
-<a href="https://github.com/Vroomfrondal/github-readme-activity-graph"><img alt="Vroomfrondal's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Vroomfrondal&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/Vroomfrondal/github-readme-activity-graph"><img alt="Vroomfrondal's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Vroomfrondal&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a> -->
