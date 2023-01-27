@@ -10,17 +10,18 @@
     <img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
+<!--
 ## 🔥 Stats
 
 <p align="center">
-  <!-- <a href="https://github.com/anuraghazra/github-readme-stats">
+   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Vroomfrondal's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Vroomfrondal&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=60D9FA&fire=60D9FA&currStreakLabel=60D9FA"/>
-  </a> -->
+  </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img alt="Vroomfrondals's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Vroomfrondal&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
   </a>
 
-</p>
+</p> -->
 
 ## 👨‍💻 Languages and tools
 
@@ -38,7 +39,7 @@
   <a><img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a>
 </p>
 
-### Hands on Experience:
+### Learning more each day:
 
 <p align="center">
   <a><img alt="NextJS" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"></a>
