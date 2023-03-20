@@ -25,7 +25,7 @@
 
 ## 👨‍💻 Languages and tools
 
-### Proficient:
+### Fluent:
 
 <p align="center">
   <a><img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23323330.svg?&style=for-the-badge&logo=typescript"></a>
@@ -39,7 +39,7 @@
   <a><img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a>
 </p>
 
-### Learning more each day:
+### Currently Learning:
 
 <p align="center">
   <a><img alt="NextJS" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"></a>
