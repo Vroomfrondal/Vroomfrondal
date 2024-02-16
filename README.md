@@ -38,15 +38,13 @@
   <a><img alt="TailwindCSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"></a>
   <a><img alt="SQL" src="https://img.shields.io/badge/-SQL-000?style=for-the-badge&logo=MySQL&logoColor=white"></a>
   <a><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"></a>
-  
-    	
 </p>
 
-### Experience with:
+<!-- ### Experience with:
 <p align="center">
   <a><img alt="Express" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"></a>
   <a><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"></a>
-</p>
+</p> -->
 
 <!-- ## 📊 Contribution Graph
 
