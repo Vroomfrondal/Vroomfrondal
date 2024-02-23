@@ -2,13 +2,13 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+profile!&center=true&width=380&height=45">
 </p>
 
-<!-- Badges template - https://github.com/badges/shields -->
+<!-- Badges template - https://github.com/badges/shields 
 <p align="center">
   <a href="https://github.com/Vroomfrondal?tab=repositories&sort=stargazers">
     <img alt="stars" title="Starred repositories" src="https://img.shields.io/github/stars/Vroomfrondal?color=55960c&labelColor=488207&style=for-the-badge&logo=github&label=Stars"/></a>  
   <a href="https://www.linkedin.com/in/topherdeleon/">
     <img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-</p>
+</p>-->
 
 <!--
 ## 🔥 Stats
