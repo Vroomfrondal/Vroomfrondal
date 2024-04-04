@@ -21,7 +21,7 @@
     <img alt="Vroomfrondals's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Vroomfrondal&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
   </a>
 
-</p> -->
+</p>
 
 ## 👨‍💻 Languages and tools
 
@@ -39,6 +39,7 @@
   <a><img alt="SQL" src="https://img.shields.io/badge/-SQL-000?style=for-the-badge&logo=MySQL&logoColor=white"></a>
   <a><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"></a>
 </p>
+ -->
 
 <!-- ### Experience with:
 <p align="center">
